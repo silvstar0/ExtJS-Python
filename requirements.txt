@@ -1,6 +1,6 @@
 Django==1.11.28
 django-filter==0.7
-django-registration==1.0
+django-registration==3.1.2
 django-rest-auth==0.2.3
 djangorestframework==3.9.1
 djangorestframework-chain==0.1.3
